@@ -639,6 +639,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 - [PySceneDetect](https://github.com/Breakthrough/PySceneDetect): Python and OpenCV-based scene cut/transition detection program & library.
 - [DOVER](https://github.com/VQAssessment/DOVER): Video Quality Assessment on User Generated Contents from Aesthetic and Technical Perspectives.
 - [ArtiMuse](https://github.com/thunderbolt215/ArtiMuse): Fine-Grained Image Aesthetics Assessment with Joint Scoring and Expert-Level Understanding.
+- [OpenMontage Drama Studio](https://github.com/charliewwdev/OpenMontage): 开源自部署的 AI 短剧/短视频工坊，LLM 编写剧本，依次完成角色、场景、道具、分镜出片（Seedance）、配音（edge-tts）与剪辑。
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
